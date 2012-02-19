@@ -1,0 +1,14 @@
+_vimfavourites
+private.vim
+*.iml
+.idea
+.svn
+*~
+*.swp
+*.diff
+*.patch
+.DS_Store
+Thumb*.db
+vimfiles/view
+
+vimfiles/.netrwhist

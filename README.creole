@@ -1,0 +1,20 @@
+= 明城的 Vim 运行环境
+
+== 目录结构
+
+{{{
+.
+|-- vim72
+|   `-- // Vim7.2 for Windows
+|-- vim73
+|   `-- // Vim7.3 for Windows(Recompiled)
+`-- vimfiles
+    `-- // Vim Runtime & Plugins etc.
+}}}
+
+== Windows 用户请注意
+
+本库包含了绿色版本的 Vim7.2& Vim7.3 下载后，打开对应目录中的 install.exe 即可
+完成安装。
+
+{{{ vim: set et sw=4 ts=4 sts=4 fdm=marker ff=unix ft=creole fenc=utf8 nobomb: }}}
