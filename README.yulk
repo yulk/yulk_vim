@@ -1,0 +1,19 @@
+= YULK 的 Vim 运行环境
+
+== 目录结构
+
+{{{
+.
+
+|-- vim73
+|   `-- // Vim7.3 for Windows(Recompiled)
+`-- vimfiles
+    `-- // Vim Runtime & Plugins etc.
+}}}
+
+
+" [*] 2012-02-15
+" SnipMate 快捷键 "<tab>"
+" ZenCoding 快捷键 "<c-y>,"
+" Fuzzyfinder
+
